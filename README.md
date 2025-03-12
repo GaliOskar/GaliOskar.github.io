@@ -1,2 +1,2 @@
 # portfolio of GaliOskar
-idk why tbh
+Informatics task.
